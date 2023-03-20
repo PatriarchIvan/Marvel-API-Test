@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Marvel-API-Test/static/css/main.c4d680c3.css",
+    "main.js": "/Marvel-API-Test/static/js/main.bde90325.js",
+    "static/media/bg_random.svg": "/Marvel-API-Test/static/media/bg_random.3e35cfaaf1fc6244e41e.svg",
+    "static/media/bg_chars.svg": "/Marvel-API-Test/static/media/bg_chars.29bcc336f77f1faf051e8337155ad6da.svg",
+    "static/media/comc_2.jpg": "/Marvel-API-Test/static/media/comc_2.b7d3d29e899e1d40582e.jpg",
+    "static/media/comc_1.jpg": "/Marvel-API-Test/static/media/comc_1.fd2e51279aceba0e7e52.jpg",
+    "static/media/banner.jpg": "/Marvel-API-Test/static/media/banner.0cf1fd990e09ea7bec27.jpg",
+    "static/media/error.gif": "/Marvel-API-Test/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/Marvel-API-Test/index.html",
+    "main.c4d680c3.css.map": "/Marvel-API-Test/static/css/main.c4d680c3.css.map",
+    "main.bde90325.js.map": "/Marvel-API-Test/static/js/main.bde90325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d680c3.css",
+    "static/js/main.bde90325.js"
+  ]
+}
